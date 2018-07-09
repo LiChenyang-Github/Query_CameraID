@@ -1,14 +1,14 @@
-﻿生成启动时间为 2017/6/26 10:46:33。
-     1>项目“D:\WangDong\CameraEnum\CameraEnum\CameraEnum.vcxproj”在节点 2 上(Build 个目标)。
+﻿生成启动时间为 2018/7/9 20:11:22。
+     1>项目“F:\My_Work\Code\Github\Query_CameraID\CameraEnum\CameraEnum.vcxproj”在节点 2 上(Build 个目标)。
      1>ClCompile:
-         E:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt cam.cpp
+         D:\Study_Software\VS2013\install\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt cam.cpp
          cam.cpp
-     1>d:\wangdong\cameraenum\cameraenum\cam.cpp(285): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\my_work\code\github\query_cameraid\cameraenum\cam.cpp(285): warning C4018: “<”: 有符号/无符号不匹配
        Link:
-         E:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\WangDong\CameraEnum\Debug\CameraEnum.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\WangDong\CameraEnum\Debug\CameraEnum.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\WangDong\CameraEnum\Debug\CameraEnum.lib" /MACHINE:X86 Debug\cam.obj
-         CameraEnum.vcxproj -> D:\WangDong\CameraEnum\Debug\CameraEnum.exe
-     1>已完成生成项目“D:\WangDong\CameraEnum\CameraEnum\CameraEnum.vcxproj”(Build 个目标)的操作。
+         D:\Study_Software\VS2013\install\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\My_Work\Code\Github\Query_CameraID\Debug\CameraEnum.exe" /INCREMENTAL /NOLOGO opencv_world310d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\My_Work\Code\Github\Query_CameraID\Debug\CameraEnum.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\My_Work\Code\Github\Query_CameraID\Debug\CameraEnum.lib" /MACHINE:X86 Debug\cam.obj
+         CameraEnum.vcxproj -> F:\My_Work\Code\Github\Query_CameraID\Debug\CameraEnum.exe
+     1>已完成生成项目“F:\My_Work\Code\Github\Query_CameraID\CameraEnum\CameraEnum.vcxproj”(Build 个目标)的操作。
 
 生成成功。
 
-已用时间 00:00:02.25
+已用时间 00:00:03.52
